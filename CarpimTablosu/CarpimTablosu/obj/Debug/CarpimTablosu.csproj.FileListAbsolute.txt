@@ -1,0 +1,9 @@
+C:\Users\Vaio\source\repos\CarpimTablosu\CarpimTablosu\bin\Debug\CarpimTablosu.exe.config
+C:\Users\Vaio\source\repos\CarpimTablosu\CarpimTablosu\bin\Debug\CarpimTablosu.exe
+C:\Users\Vaio\source\repos\CarpimTablosu\CarpimTablosu\bin\Debug\CarpimTablosu.pdb
+C:\Users\Vaio\source\repos\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.Form1.resources
+C:\Users\Vaio\source\repos\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.Properties.Resources.resources
+C:\Users\Vaio\source\repos\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.csproj.GenerateResource.cache
+C:\Users\Vaio\source\repos\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\source\repos\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.exe
+C:\Users\Vaio\source\repos\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.pdb
