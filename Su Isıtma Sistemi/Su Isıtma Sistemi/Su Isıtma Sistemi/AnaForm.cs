@@ -156,4 +156,4 @@ namespace Su_Isıtma_Sistemi
         }
     }
 }
-//İbrahim ÇARBUĞA 131001008 & Alihan ÜLKER 131001036
+//Alihan ÜLKER
