@@ -440,7 +440,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(207, 13);
             this.label9.TabIndex = 7;
-            this.label9.Text = "Halil İbrahim ÇARBUĞA-131001008";
+            this.label9.Text = "";
             this.label9.Click += new System.EventHandler(this.label9_Click);
             // 
             // label10
@@ -451,7 +451,7 @@
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(154, 13);
             this.label10.TabIndex = 8;
-            this.label10.Text = "Alihan ÜLKER-131001036";
+            this.label10.Text = "Alihan ÜLKER";
             // 
             // lblCikisUyelikDegeri
             // 
